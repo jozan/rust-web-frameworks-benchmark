@@ -1,0 +1,5 @@
+{
+  "name": "node-bench",
+  "module": "bun.ts",
+  "type": "module"
+}
